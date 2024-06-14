@@ -26,3 +26,4 @@ D:\Dot Net\GameStore\GameStore.Frontend\obj\Debug\net8.0\refint\GameStore.Fronte
 D:\Dot Net\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.pdb
 D:\Dot Net\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
 D:\Dot Net\GameStore\GameStore.Frontend\obj\Debug\net8.0\ref\GameStore.Frontend.dll
+D:\Dot Net\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.sourcelink.json
